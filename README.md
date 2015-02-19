@@ -1,5 +1,4 @@
 # google-homepage
-<!DOCTYPE html>
 <html>
     <head> 
         <title>My shitty homework</title>
